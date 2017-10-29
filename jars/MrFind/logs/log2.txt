@@ -1,0 +1,125 @@
+17.11.2014 15:19:59.676 TRACE: 9.6.25.83:55606 > Pay [payKind=0, dateOperation=Mon Nov 17 14:19:57 MSK 2014, payType=1, paySumma=-8.0, payNumber=back]
+17.11.2014 15:19:59.676 TRACE: 9.6.25.83:55606 subDataType = 54; Subdata size 69
+17.11.2014 15:19:59.676 TRACE: 9.6.25.83:55606 > Disc [applyToPos=0, pos_ID=1, discType=256, ServerDiscType=12, disc_ID=781887, discount=0.0, discPercent=0.0, quantity=1.0, addBarCode=1381673]
+17.11.2014 15:19:59.676 TRACE: 9.6.25.83:55606 subDataType = 54; Subdata size 69
+17.11.2014 15:19:59.676 TRACE: 9.6.25.83:55606 > Disc [applyToPos=17, pos_ID=1, discType=1, ServerDiscType=1, disc_ID=0, discount=0.1, discPercent=5.2632, quantity=1.0, addBarCode=]
+17.11.2014 15:19:59.676 TRACE: 9.6.25.83:55606 subDataType = 54; Subdata size 69
+17.11.2014 15:19:59.676 TRACE: 9.6.25.83:55606 > Disc [applyToPos=0, pos_ID=2, discType=256, ServerDiscType=12, disc_ID=781887, discount=0.0, discPercent=0.0, quantity=0.9, addBarCode=1381673]
+17.11.2014 15:19:59.676 TRACE: 9.6.25.83:55606 subDataType = 54; Subdata size 69
+17.11.2014 15:19:59.676 TRACE: 9.6.25.83:55606 > Disc [applyToPos=17, pos_ID=2, discType=1, ServerDiscType=1, disc_ID=0, discount=6.29, discPercent=4.7622, quantity=0.9, addBarCode=]
+17.11.2014 15:19:59.676 TRACE: 9.6.25.83:55606 subDataType = 54; Subdata size 69
+17.11.2014 15:19:59.676 TRACE: 9.6.25.83:55606 > Disc [applyToPos=64, pos_ID=2, discType=536870912, ServerDiscType=29, disc_ID=1014204, discount=0.17, discPercent=0.1357, quantity=0.9, addBarCode=0]
+17.11.2014 15:19:59.676 TRACE: 9.6.25.83:55606 subDataType = 54; Subdata size 69
+17.11.2014 15:19:59.676 TRACE: 9.6.25.83:55606 > Disc [applyToPos=0, pos_ID=3, discType=256, ServerDiscType=12, disc_ID=781887, discount=0.0, discPercent=0.0, quantity=1.0, addBarCode=1381673]
+17.11.2014 15:19:59.676 TRACE: 9.6.25.83:55606 subDataType = 54; Subdata size 69
+17.11.2014 15:19:59.676 TRACE: 9.6.25.83:55606 > Disc [applyToPos=17, pos_ID=3, discType=1, ServerDiscType=1, disc_ID=0, discount=0.77, discPercent=4.7945, quantity=1.0, addBarCode=]
+17.11.2014 15:19:59.676 TRACE: 9.6.25.83:55606 subDataType = 54; Subdata size 69
+17.11.2014 15:19:59.676 TRACE: 9.6.25.83:55606 > Disc [applyToPos=0, pos_ID=4, discType=256, ServerDiscType=12, disc_ID=781887, discount=0.0, discPercent=0.0, quantity=1.0, addBarCode=1381673]
+17.11.2014 15:19:59.676 TRACE: 9.6.25.83:55606 subDataType = 54; Subdata size 69
+17.11.2014 15:19:59.676 TRACE: 9.6.25.83:55606 > Disc [applyToPos=17, pos_ID=4, discType=1, ServerDiscType=1, disc_ID=0, discount=3.25, discPercent=4.7626, quantity=1.0, addBarCode=]
+17.11.2014 15:19:59.676 TRACE: 9.6.25.83:55606 subDataType = 54; Subdata size 69
+17.11.2014 15:19:59.676 TRACE: 9.6.25.83:55606 > Disc [applyToPos=0, pos_ID=5, discType=256, ServerDiscType=12, disc_ID=781887, discount=0.0, discPercent=0.0, quantity=1.71, addBarCode=1381673]
+17.11.2014 15:19:59.676 TRACE: 9.6.25.83:55606 subDataType = 54; Subdata size 69
+17.11.2014 15:19:59.676 TRACE: 9.6.25.83:55606 > Disc [applyToPos=17, pos_ID=5, discType=1, ServerDiscType=1, disc_ID=0, discount=5.97, discPercent=4.7626, quantity=1.71, addBarCode=]
+17.11.2014 15:19:59.676 TRACE: 9.6.25.83:55606 subDataType = 54; Subdata size 69
+17.11.2014 15:19:59.676 TRACE: 9.6.25.83:55606 > Disc [applyToPos=0, pos_ID=6, discType=256, ServerDiscType=12, disc_ID=781887, discount=0.0, discPercent=0.0, quantity=2.0, addBarCode=1381673]
+17.11.2014 15:19:59.676 TRACE: 9.6.25.83:55606 subDataType = 54; Subdata size 69
+17.11.2014 15:19:59.676 TRACE: 9.6.25.83:55606 > Disc [applyToPos=17, pos_ID=6, discType=1, ServerDiscType=1, disc_ID=0, discount=3.4, discPercent=4.9722, quantity=2.0, addBarCode=]
+17.11.2014 15:19:59.676 WARN : 9.6.25.83:55606.SETv5 Не найдена группа касс для магазина 12 кассы 11
+17.11.2014 15:19:59.676 TRACE: 9.6.25.83:55606 < Cheque [shopIndex=12, cashNumber=11, isReturn=false, ck_NSmena=1734, ck_Number=469643, ck_Summa=411.95, ck_Discount=0.0, ck_NDS=0.0, discPercent=0.0, defDiscount=0.0, defDiscountPerc=0.0, buyerSum=0.0, tabNumber=, numIteration=1, idSetV10=0]; packetSize = 1265
+17.11.2014 15:19:59.676 TRACE: 9.6.25.83:55606 < Position [pos_ID=1, item=182720_ST, dateOperation=Mon Nov 17 14:19:57 MSK 2014, depart=0, quant=1.0, price=1.9, priceDisc=1.9, ck_Summa=1.9, ck_NDS=0.0, discSumma=0.0, discPercent=0.0, minPrice=0.0, defDiscSumma=0.0, numOldPos=1, numKit=0, barCode=4606068019501, barCode1=, fixPrice=0.0, isGift=false]
+17.11.2014 15:19:59.676 TRACE: 9.6.25.83:55606 < Position [pos_ID=2, item=041200_KG, dateOperation=Mon Nov 17 14:19:57 MSK 2014, depart=0, quant=0.898, price=146.99, priceDisc=146.99, ck_Summa=132.0, ck_NDS=0.0, discSumma=0.0, discPercent=0.0, minPrice=0.0, defDiscSumma=0.0, numOldPos=2, numKit=0, barCode=2841200008988, barCode1=, fixPrice=0.0, isGift=false]
+17.11.2014 15:19:59.691 TRACE: 9.6.25.83:55606 < Position [pos_ID=3, item=046914_ST, dateOperation=Mon Nov 17 14:19:57 MSK 2014, depart=0, quant=1.0, price=16.06, priceDisc=16.06, ck_Summa=16.06, ck_NDS=0.0, discSumma=0.0, discPercent=0.0, minPrice=0.0, defDiscSumma=0.0, numOldPos=3, numKit=0, barCode=5000159415644, barCode1=, fixPrice=0.0, isGift=false]
+17.11.2014 15:19:59.691 TRACE: 9.6.25.83:55606 < Position [pos_ID=4, item=131767_ST, dateOperation=Mon Nov 17 14:19:57 MSK 2014, depart=0, quant=1.0, price=68.24, priceDisc=68.24, ck_Summa=68.24, ck_NDS=0.0, discSumma=0.0, discPercent=0.0, minPrice=0.0, defDiscSumma=0.0, numOldPos=4, numKit=0, barCode=5000159410304, barCode1=, fixPrice=0.0, isGift=false]
+17.11.2014 15:19:59.691 TRACE: 9.6.25.83:55606 < Position [pos_ID=5, item=011229_KG, dateOperation=Mon Nov 17 14:19:57 MSK 2014, depart=0, quant=1.706, price=73.49, priceDisc=73.49, ck_Summa=125.37, ck_NDS=0.0, discSumma=0.0, discPercent=0.0, minPrice=0.0, defDiscSumma=0.0, numOldPos=5, numKit=0, barCode=2811229017063, barCode1=, fixPrice=0.0, isGift=false]
+17.11.2014 15:19:59.691 TRACE: 9.6.25.83:55606 < Position [pos_ID=6, item=060875_ST, dateOperation=Mon Nov 17 14:19:57 MSK 2014, depart=0, quant=2.0, price=34.19, priceDisc=34.19, ck_Summa=68.38, ck_NDS=0.0, discSumma=0.0, discPercent=0.0, minPrice=0.0, defDiscSumma=0.0, numOldPos=6, numKit=0, barCode=4602547001197, barCode1=, fixPrice=0.0, isGift=false]
+17.11.2014 15:19:59.691 TRACE: 9.6.25.83:55606 < Pay [payKind=0, dateOperation=Mon Nov 17 14:19:57 MSK 2014, payType=1, paySumma=400.0, payNumber=]
+17.11.2014 15:19:59.691 TRACE: 9.6.25.83:55606 < Pay [payKind=0, dateOperation=Mon Nov 17 14:19:57 MSK 2014, payType=1, paySumma=-8.0, payNumber=back]
+17.11.2014 15:19:59.691 TRACE: 9.6.25.83:55606 < DISCOUNT; data.length = 1265
+17.11.2014 15:19:59.691 TRACE: 9.6.25.83:55606 SendPacket - Ok
+17.11.2014 15:20:01.910 INFO : Cash connected from 9.6.25.83:55614 (#2)
+17.11.2014 15:20:01.910 TRACE: 9.6.25.83:55614 Declared size is 596; version = 10
+17.11.2014 15:20:01.910 TRACE: 9.6.25.83:55614 Count is 596
+17.11.2014 15:20:01.910 TRACE: 9.6.25.83:55614 Command = DISCOUNT
+17.11.2014 15:20:01.910 TRACE: 9.6.25.83:55614 subDataType = 51; Subdata size 97
+17.11.2014 15:20:01.910 TRACE: 9.6.25.83:55614 > Cheque [shopIndex=12, cashNumber=13, isReturn=false, ck_NSmena=1648, ck_Number=458275, ck_Summa=116.0, ck_Discount=82.33, ck_NDS=0.0, discPercent=0.0, defDiscount=0.0, defDiscountPerc=0.0, buyerSum=0.0, tabNumber=, numIteration=1, idSetV10=0]
+17.11.2014 15:20:01.910 TRACE: 9.6.25.83:55614 subDataType = 52; Subdata size 177
+17.11.2014 15:20:01.910 TRACE: 9.6.25.83:55614 > Position [pos_ID=1, item=156592_ST, dateOperation=Mon Nov 17 14:20:01 MSK 2014, depart=0, quant=1.0, price=198.33, priceDisc=198.33, ck_Summa=198.33, ck_NDS=0.0, discSumma=0.0, discPercent=0.0, minPrice=0.0, defDiscSumma=0.0, numOldPos=1, numKit=0, barCode=5998812738042, barCode1=, fixPrice=0.0, isGift=false]
+17.11.2014 15:20:01.910 TRACE: 9.6.25.83:55614 subDataType = 53; Subdata size 53
+17.11.2014 15:20:01.910 TRACE: 9.6.25.83:55614 > Pay [payKind=0, dateOperation=Mon Nov 17 14:20:01 MSK 2014, payType=1, paySumma=120.0, payNumber=]
+17.11.2014 15:20:01.910 TRACE: 9.6.25.83:55614 subDataType = 53; Subdata size 53
+17.11.2014 15:20:01.910 TRACE: 9.6.25.83:55614 > Pay [payKind=0, dateOperation=Mon Nov 17 14:20:01 MSK 2014, payType=1, paySumma=-4.0, payNumber=back]
+17.11.2014 15:20:01.910 TRACE: 9.6.25.83:55614 subDataType = 54; Subdata size 69
+17.11.2014 15:20:01.910 TRACE: 9.6.25.83:55614 > Disc [applyToPos=0, pos_ID=1, discType=256, ServerDiscType=12, disc_ID=5259599, discount=0.0, discPercent=0.0, quantity=1.0, addBarCode=780011325519]
+17.11.2014 15:20:01.910 TRACE: 9.6.25.83:55614 subDataType = 54; Subdata size 69
+17.11.2014 15:20:01.910 TRACE: 9.6.25.83:55614 > Disc [applyToPos=17, pos_ID=1, discType=4, ServerDiscType=3, disc_ID=9351842, discount=81.44, discPercent=41.0629, quantity=1.0, addBarCode=]
+17.11.2014 15:20:01.910 TRACE: 9.6.25.83:55614 subDataType = 54; Subdata size 69
+17.11.2014 15:20:01.910 TRACE: 9.6.25.83:55614 > Disc [applyToPos=64, pos_ID=1, discType=536870912, ServerDiscType=29, disc_ID=1014204, discount=0.89, discPercent=0.7614, quantity=1.0, addBarCode=0]
+17.11.2014 15:20:01.910 WARN : 9.6.25.83:55614.SETv5 Не найдена группа касс для магазина 12 кассы 13
+17.11.2014 15:20:01.910 TRACE: 9.6.25.83:55614 < Cheque [shopIndex=12, cashNumber=13, isReturn=false, ck_NSmena=1648, ck_Number=458275, ck_Summa=198.33, ck_Discount=0.0, ck_NDS=0.0, discPercent=0.0, defDiscount=0.0, defDiscountPerc=0.0, buyerSum=0.0, tabNumber=, numIteration=1, idSetV10=0]; packetSize = 380
+17.11.2014 15:20:01.910 TRACE: 9.6.25.83:55614 < Position [pos_ID=1, item=156592_ST, dateOperation=Mon Nov 17 14:20:01 MSK 2014, depart=0, quant=1.0, price=198.33, priceDisc=198.33, ck_Summa=198.33, ck_NDS=0.0, discSumma=0.0, discPercent=0.0, minPrice=0.0, defDiscSumma=0.0, numOldPos=1, numKit=0, barCode=5998812738042, barCode1=, fixPrice=0.0, isGift=false]
+17.11.2014 15:20:01.910 TRACE: 9.6.25.83:55614 < Pay [payKind=0, dateOperation=Mon Nov 17 14:20:01 MSK 2014, payType=1, paySumma=120.0, payNumber=]
+17.11.2014 15:20:01.910 TRACE: 9.6.25.83:55614 < Pay [payKind=0, dateOperation=Mon Nov 17 14:20:01 MSK 2014, payType=1, paySumma=-4.0, payNumber=back]
+17.11.2014 15:20:01.910 TRACE: 9.6.25.83:55614 < DISCOUNT; data.length = 380
+17.11.2014 15:20:01.910 TRACE: 9.6.25.83:55614 SendPacket - Ok
+17.11.2014 15:20:04.410 INFO : Cash connected from 9.6.25.83:55616 (#2)
+17.11.2014 15:20:04.410 TRACE: 9.6.25.83:55616 Declared size is 205; version = 10
+17.11.2014 15:20:04.410 TRACE: 9.6.25.83:55616 Count is 205
+17.11.2014 15:20:04.410 TRACE: 9.6.25.83:55616 Command = CARDSTATUS
+17.11.2014 15:20:04.410 TRACE: 9.6.25.83:55616 subDataType = 55; Subdata size 194
+17.11.2014 15:20:04.410 TRACE: 9.6.25.83:55616 > DiscountCard [barCode=780011325519, name=, percent=0.0, clientIndex=0, customer=, custCode=0, category=0, custCatCode=0, discCliTurn=0.0, marksCount=0, weekDays=0, status=0, cardType=1]
+17.11.2014 15:20:05.269 INFO : Cash connected from 9.6.25.83:55617 (#3)
+17.11.2014 15:20:05.316 TRACE: 9.6.25.83:55617 Declared size is 2801; version = 10
+17.11.2014 15:20:05.316 TRACE: 9.6.25.83:55617 Count is 2801
+17.11.2014 15:20:05.316 TRACE: 9.6.25.83:55617 Command = DISCOUNT
+17.11.2014 15:20:05.316 TRACE: 9.6.25.83:55617 subDataType = 51; Subdata size 97
+17.11.2014 15:20:05.316 TRACE: 9.6.25.83:55617 > Cheque [shopIndex=12, cashNumber=18, isReturn=false, ck_NSmena=1228, ck_Number=340278, ck_Summa=621.0, ck_Discount=59.26, ck_NDS=0.0, discPercent=0.0, defDiscount=0.0, defDiscountPerc=0.0, buyerSum=0.0, tabNumber=, numIteration=1, idSetV10=0]
+17.11.2014 15:20:05.316 TRACE: 9.6.25.83:55617 subDataType = 52; Subdata size 177
+17.11.2014 15:20:05.316 TRACE: 9.6.25.83:55617 > Position [pos_ID=1, item=124447_ST, dateOperation=Mon Nov 17 14:20:02 MSK 2014, depart=0, quant=1.0, price=135.45, priceDisc=135.45, ck_Summa=135.45, ck_NDS=0.0, discSumma=0.0, discPercent=0.0, minPrice=0.0, defDiscSumma=0.0, numOldPos=1, numKit=0, barCode=4607032633150, barCode1=, fixPrice=0.0, isGift=false]
+17.11.2014 15:20:05.316 TRACE: 9.6.25.83:55617 subDataType = 52; Subdata size 177
+17.11.2014 15:20:05.316 TRACE: 9.6.25.83:55617 > Position [pos_ID=2, item=182720_ST, dateOperation=Mon Nov 17 14:20:02 MSK 2014, depart=0, quant=1.0, price=1.9, priceDisc=1.9, ck_Summa=1.9, ck_NDS=0.0, discSumma=0.0, discPercent=0.0, minPrice=0.0, defDiscSumma=0.0, numOldPos=2, numKit=0, barCode=4606068019501, barCode1=, fixPrice=0.0, isGift=false]
+17.11.2014 15:20:05.316 TRACE: 9.6.25.83:55617 subDataType = 52; Subdata size 177
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 > Position [pos_ID=3, item=011219_KG, dateOperation=Mon Nov 17 14:20:02 MSK 2014, depart=0, quant=0.573, price=419.99, priceDisc=419.99, ck_Summa=240.65427, ck_NDS=0.0, discSumma=0.0, discPercent=0.0, minPrice=0.0, defDiscSumma=0.0, numOldPos=3, numKit=0, barCode=2811219005735, barCode1=, fixPrice=0.0, isGift=false]
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 subDataType = 52; Subdata size 177
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 > Position [pos_ID=4, item=032256_ST, dateOperation=Mon Nov 17 14:20:02 MSK 2014, depart=0, quant=1.0, price=59.89, priceDisc=59.89, ck_Summa=59.89, ck_NDS=0.0, discSumma=0.0, discPercent=0.0, minPrice=0.0, defDiscSumma=0.0, numOldPos=4, numKit=0, barCode=4606068000011, barCode1=, fixPrice=0.0, isGift=false]
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 subDataType = 52; Subdata size 177
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 > Position [pos_ID=5, item=147469_ST, dateOperation=Mon Nov 17 14:20:02 MSK 2014, depart=0, quant=3.0, price=11.44, priceDisc=11.44, ck_Summa=34.32, ck_NDS=0.0, discSumma=0.0, discPercent=0.0, minPrice=0.0, defDiscSumma=0.0, numOldPos=5, numKit=0, barCode=4606068022129, barCode1=, fixPrice=0.0, isGift=false]
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 subDataType = 52; Subdata size 177
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 > Position [pos_ID=6, item=012513_ST, dateOperation=Mon Nov 17 14:20:02 MSK 2014, depart=0, quant=1.0, price=74.39, priceDisc=74.39, ck_Summa=74.39, ck_NDS=0.0, discSumma=0.0, discPercent=0.0, minPrice=0.0, defDiscSumma=0.0, numOldPos=6, numKit=0, barCode=4605639000870, barCode1=, fixPrice=0.0, isGift=false]
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 subDataType = 52; Subdata size 177
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 > Position [pos_ID=7, item=169388_ST, dateOperation=Mon Nov 17 14:20:02 MSK 2014, depart=0, quant=1.0, price=44.08, priceDisc=44.08, ck_Summa=44.08, ck_NDS=0.0, discSumma=0.0, discPercent=0.0, minPrice=0.0, defDiscSumma=0.0, numOldPos=7, numKit=0, barCode=4607043110121, barCode1=, fixPrice=0.0, isGift=false]
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 subDataType = 52; Subdata size 177
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 > Position [pos_ID=8, item=050416_ST, dateOperation=Mon Nov 17 14:20:02 MSK 2014, depart=0, quant=2.0, price=44.79, priceDisc=44.79, ck_Summa=89.58, ck_NDS=0.0, discSumma=0.0, discPercent=0.0, minPrice=0.0, defDiscSumma=0.0, numOldPos=8, numKit=0, barCode=4607120854856, barCode1=, fixPrice=0.0, isGift=false]
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 subDataType = 53; Subdata size 53
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 > Pay [payKind=0, dateOperation=Mon Nov 17 14:20:02 MSK 2014, payType=1, paySumma=1000.0, payNumber=]
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 subDataType = 53; Subdata size 53
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 > Pay [payKind=0, dateOperation=Mon Nov 17 14:20:02 MSK 2014, payType=1, paySumma=-379.0, payNumber=back]
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 subDataType = 54; Subdata size 69
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 > Disc [applyToPos=0, pos_ID=1, discType=256, ServerDiscType=12, disc_ID=3784004, discount=0.0, discPercent=0.0, quantity=1.0, addBarCode=780010202549]
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 subDataType = 54; Subdata size 69
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 > Disc [applyToPos=17, pos_ID=1, discType=1, ServerDiscType=1, disc_ID=0, discount=6.45, discPercent=4.7619, quantity=1.0, addBarCode=]
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 subDataType = 54; Subdata size 69
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 > Disc [applyToPos=0, pos_ID=2, discType=256, ServerDiscType=12, disc_ID=3784004, discount=0.0, discPercent=0.0, quantity=1.0, addBarCode=780010202549]
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 subDataType = 54; Subdata size 69
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 > Disc [applyToPos=17, pos_ID=2, discType=1, ServerDiscType=1, disc_ID=0, discount=0.1, discPercent=5.2632, quantity=1.0, addBarCode=]
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 subDataType = 54; Subdata size 69
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 > Disc [applyToPos=0, pos_ID=3, discType=256, ServerDiscType=12, disc_ID=3784004, discount=0.0, discPercent=0.0, quantity=0.57, addBarCode=780010202549]
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 subDataType = 54; Subdata size 69
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 > Disc [applyToPos=17, pos_ID=3, discType=1, ServerDiscType=1, disc_ID=0, discount=11.46, discPercent=4.762, quantity=0.57, addBarCode=]
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 subDataType = 54; Subdata size 69
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 > Disc [applyToPos=64, pos_ID=3, discType=536870912, ServerDiscType=29, disc_ID=1014204, discount=0.41, discPercent=0.18, quantity=0.57, addBarCode=0]
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 subDataType = 54; Subdata size 69
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 > Disc [applyToPos=0, pos_ID=4, discType=256, ServerDiscType=12, disc_ID=3784004, discount=0.0, discPercent=0.0, quantity=1.0, addBarCode=780010202549]
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 subDataType = 54; Subdata size 69
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 > Disc [applyToPos=17, pos_ID=4, discType=1, ServerDiscType=1, disc_ID=0, discount=2.9, discPercent=4.8422, quantity=1.0, addBarCode=]
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 subDataType = 54; Subdata size 69
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 > Disc [applyToPos=0, pos_ID=5, discType=256, ServerDiscType=12, disc_ID=3784004, discount=0.0, discPercent=0.0, quantity=3.0, addBarCode=780010202549]
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 subDataType = 54; Subdata size 69
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 > Disc [applyToPos=17, pos_ID=5, discType=1, ServerDiscType=1, disc_ID=0, discount=1.65, discPercent=4.8077, quantity=3.0, addBarCode=]
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 subDataType = 54; Subdata size 69
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 > Disc [applyToPos=0, pos_ID=6, discType=256, ServerDiscType=12, disc_ID=3784004, discount=0.0, discPercent=0.0, quantity=1.0, addBarCode=780010202549]
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 subDataType = 54; Subdata size 69
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 > Disc [applyToPos=17, pos_ID=6, discType=1, ServerDiscType=1, disc_ID=0, discount=3.6, discPercent=4.8394, quantity=1.0, addBarCode=]
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 subDataType = 54; Subdata size 69
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 > Disc [applyToPos=0, pos_ID=7, discType=256, ServerDiscType=12, disc_ID=3784004, discount=0.0, discPercent=0.0, quantity=1.0, addBarCode=780010202549]
+17.11.2014 15:20:05.347 TRACE: 9.6.25.83:55617 subDataType = 54; Subdata size 69
