@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MrFind:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MrFind_jar</output-path>
+    <root id="archive" name="MrFind.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/MrFind/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="LogParser" />
+    </root>
+  </artifact>
+</component>
